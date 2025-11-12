@@ -1,0 +1,5 @@
+fastapi
+uvicorn  # For running the ASGI server
+pydantic
+openai    # Used for the DeepSeek API calls
+python-dotenv

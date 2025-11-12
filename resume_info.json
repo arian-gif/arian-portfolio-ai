@@ -1,0 +1,227 @@
+{
+    "name": "Arian Khan",
+    "title": "AI Engineer, AI Researcher, Full-Stack Developer, Robotics Engineer, Software Engineer, Embedded Systems Engineer",
+    "summary": "Passionate about building AI-native systems that bridge human interaction and automation.",
+    "education": [
+      {"degree": "BASc in Mechatronics Engineering", "school": "University of Waterloo", "year": "Expected 2028"}
+    ],
+    "skills": {
+      "languages": [
+        "Python",
+        "Java",
+        "C++",
+        "JavaScript",
+        "SQL",
+        "HTML",
+        "CSS",
+        "Dart",
+        "TypeScript",
+        "VHDL",
+        "PLC Ladder Logic",
+        "C",
+        "C#",
+        "Assembly",
+        "Arduino",
+        "STM32"
+      ],
+      "frameworks_libraries": [
+        "React",
+        "Node.js",
+        "Flask",
+        "jQuery",
+        "Bootstrap",
+        "EJS",
+        "TensorFlow & Keras",
+        "PyTorch",
+        "SpringBoot",
+        ".Net",
+        "Ski-kit learn",
+        "Hugging face",
+        "Ollama",
+        "Langchain",
+        "LangGraph",
+        "AutoGen",
+        "MCPs"
+      ],
+      "databases": [
+        "MongoDB",
+        "MySQL",
+        "PostgreSQL",
+        "Redis"
+      ],
+      "tools_platforms": [
+        "VSCode",
+        "Android Studio",
+        "Pycharm",
+        "Git",
+        "GitHub",
+        "ServiceNow",
+        "SCCM",
+        "MS Office",
+        "Postman",
+        "Google Colab",
+        "Jupyter",
+        "Autocad",
+        "solidwords",
+        "tinkercad",
+        "OpenCV",
+        "GitLab",
+        "MatLab",
+        "LTspice",
+        "Simulink",
+        "Cursor",
+        "n8n"
+      ]
+    },
+    "work_experience": [
+      {
+        "company": "BCS Automation",
+        "location": "Belleville, ON",
+        "title": "AI developer",
+        "dates": "Sept 2025 – Dec 2025",
+        "technologies": [
+          "Pytorch",
+          ".Net",
+          "React",
+          "Matlab",
+          "Simulink",
+          "Azure",
+          "Ladder Logic",
+          "Cursor",
+          "n8n",
+          "LangGraph",
+          "AutoGen",
+          "MCPs"
+        ],
+        "bullet_points": [
+          "Developed LSTM Auto-Encoder anomaly detection model using PyTorch to predict equipment failures 2-4 weeks in advance, achieving 92% accuracy and reducing unplanned downtime by 35% across manufacturing facilities",
+          "Engineered comprehensive data analytics pipeline using Azure KQL to process 50,000+ real-time PLC sensor readings per minute, implementing automated filtering that improved data quality by 40% and reduced false alerts by 60%",
+          "Built full-stack monitoring dashboard with React frontend and .NET Core backend, featuring real-time data visualization, role-based authentication, and automated reporting for 150+ plant operators and maintenance technicians",
+          "Implemented advanced signal processing algorithms in MATLAB/Simulink for vibration analysis and spectral processing, improving sensor accuracy by 25% through custom filtering and noise reduction techniques",
+          "Programmed Siemens PLC systems using Ladder Logic for sensor integration and data acquisition, configuring I/O modules and communication protocols (Modbus, Ethernet/IP) while optimizing scan times by 30%",
+          "Engineered a multi-agent AI system that autonomously researches, synthesizes web data and internal company resources, and generates comprehensive engineering documentation",
+          "Automated end-to-end engineering document generation workflows using n8n, reducing manual processing time and standardizing output quality across technical documentation"
+        ]
+      },
+      {
+        "company": "CoinWa (startup)",
+        "location": "Toronto, ON",
+        "title": "AI Engineer Intern",
+        "dates": "May 2025 – Aug 2025",
+        "technologies": [
+          "Python",
+          "PyTorch",
+          "Scikit-Learn",
+          "Hugging Face",
+          "Ollama",
+          "Google Colab"
+        ],
+        "bullet_points": [
+          "Developed a Duolingo-style AI system with a simple ANN-based classifier that analyzes user performance, detects weaknesses from incorrect answers, and dynamically recommends personalized financial literacy lessons through an adaptive feedback engine.",
+          "Engineered a conversational NLP assistant to engage users about financial literacy, leveraging Hugging Face Transformers and Ollama for local LLM deployment.",
+          "Fine-tuned Transformer models using parameter tuning and local optimization with Ollama to customize the assistant’s tone, accuracy, and response flow."
+        ]
+      },
+      {
+        "company": "CoinWa (startup)",
+        "location": "Toronto, ON",
+        "title": "Software Engineer Intern",
+        "dates": "Jan 2025 – April 2025",
+        "technologies": [
+          "Flutter",
+          "Dart",
+          "Git",
+          "GitHub",
+          "MongoDB",
+          "Node.js",
+          "Canva",
+          "Postman"
+        ],
+        "bullet_points": [
+          "Created a financial literacy app using Flutter and Dart aimed at educating 13-18-year-olds about financial concepts, implementing features such as login/registration, email verification, password recovery, and structured learning modules.",
+          "Developed interactive educational features within the app, including mini-games, quizzes, and engaging lessons, enhancing user engagement and retention through gamified learning experiences.",
+          "Designed and implemented responsive UI layouts using Flutter and Dart, optimizing for various screen sizes and devices; leveraged Canva to design visually appealing UI elements and create rough designs.",
+          "Built and integrated a backend system using Node.js and MongoDB, handling user registration, authentication, and data storage securely; collaborated with a team using Git and GitHub for version control.",
+          "Debugged and optimized app performance using Flutter DevTools, identifying and resolving bugs and rendering issues to enhance overall app responsiveness."
+        ]
+      },
+      {
+        "company": "Sun Life",
+        "location": "Toronto, ON",
+        "title": "Onsite Support",
+        "dates": "April 2024 – Aug 2024",
+        "technologies": [
+          "ServiceNow",
+          "MS Office",
+          "SCCM"
+        ],
+        "bullet_points": [
+          "Installed and configured Sun Life software on new computers for onboarding employees, ensuring seamless functionality.",
+          "Upgraded old computers to new ones, including hardware upgrades with RAM replacements and software updates, enhancing efficiency and performance.",
+          "Provided technical support to Sun Life staff, effectively resolving complex computer issues and maintaining high levels of customer satisfaction."
+        ]
+      }
+    ],
+    "personal_projects": [
+      {
+        "title": "AI Sports Commentary App (AI Full-Stack)",
+        "dates": "July 2025",
+        "technologies": [
+          "React",
+          "Typescript",
+          "FastAPI",
+          "PyTorch",
+          "Gemini",
+          "Whisper"
+        ],
+        "bullet_points": [
+          "Designed and implemented a full-stack AI sports commentary system where users upload sports clips and receive dynamic commentary generated via OpenAI Whisper (for audio transcription) or PyTorch-based computer vision analysis when audio is unavailable.",
+          "Built a polished, responsive frontend using React and TypeScript, styled with Tailwind CSS and assisted by Lovable.dev.",
+          "Integrated video upload, clean UI components, and toast-based user feedback for a smooth UX.",
+          "Integrated Google Gemini via API to generate dramatic sports commentary, dynamically adapting prompts based on either transcribed speech or visual cues to produce realistic and energetic outputs."
+        ]
+      },
+      {
+        "title": "Fantasy Draft (Web Dev)",
+        "dates": "March 2025–present",
+        "technologies": [
+          "Node.js",
+          "EJS",
+          "CSS",
+          "Bootstrap",
+          "PostgreSQL"
+        ],
+        "bullet_points": [
+          "Developed a full-stack basketball fantasy league featuring a real-time draft system, enhancing user engagement and competitive play.",
+          "Engineered a scalable backend with Node.js and Express, optimized PostgreSQL queries for efficient data handling, and built a dynamic frontend using EJS, Bootstrap and CSS.",
+          "Implemented secure authentication with Google OAuth and custom login/registration, ensuring robust user data protection.",
+          "Integrated external APIs to fetch and store player data in PostgreSQL, linking drafted players to users and seamlessly passing data between the backend and frontend."
+        ]
+      },
+      {
+        "title": "Delivery Bot (Robotics)",
+        "dates": "Oct 2023 – Dec 2023",
+        "technologies": [
+          "RobotC"
+        ],
+        "bullet_points": [
+          "The Delivery Bot offers an innovative solution to help individuals, especially the elderly, receive packages.",
+          "Created a robot that follows file instructions to reach locations on a grid, picks up colored boxes, and autonomously makes decisions based on box colors.",
+          "Developed a RobotC program that determines the robot's actions and tasks with the help of various sensors and motors, allowing it to make informed decisions about its next course of action."
+        ]
+      },
+      {
+        "title": "Impact-Reducing Bumper System (Transportation Safety)",
+        "dates": "Nov 2024-Dec 2024",
+        "technologies": [
+          "MATLAB",
+          "Engineering Design"
+        ],
+        "bullet_points": [
+          "Designed and built a low-cost, impact-reducing bumper system that achieved a 50% reduction in collision force, leveraging accessible materials and engineering principles of energy dissipation to improve occupant and vehicle safety in low-speed crashes.",
+          "Developed a dynamic MATLAB simulation to model acceleration, velocity, and rebound behavior during multiple collisions, enabling data-driven optimization of impact absorption and overall structural performance.",
+          "Integrated transportation safety principles, vehicle dynamics, and GD&T standards to refine the bumper design, ensuring it met performance, reliability, and manufacturability criteria through iterative testing and analysis."
+        ]
+      }
+    ]
+  }
