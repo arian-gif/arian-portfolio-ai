@@ -130,7 +130,12 @@ tools = [
 app = FastAPI(title="Portfolio AI Agent")
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:8080"], 
+    allow_origins=[
+        "http://localhost:8080",
+        "http://localhost:3000",
+        "https://ariankhan.netlify.app",
+        "https://ariankhan.ca",
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
