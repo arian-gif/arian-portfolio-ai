@@ -127,6 +127,8 @@ tools = [
     }
 ]
 
+frontend_url = os.getenv("FRONTEND_URL")
+
 app = FastAPI(title="Portfolio AI Agent")
 app.add_middleware(
     CORSMiddleware,
