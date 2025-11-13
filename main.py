@@ -127,10 +127,12 @@ tools = [
     }
 ]
 
+frontend_url = os.getenv("FRONTEND_URL")
+
 app = FastAPI(title="Portfolio AI Agent")
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:8080"], 
+    allow_origins=["http://localhost:8080",frontend_url], 
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
